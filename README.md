@@ -16,7 +16,7 @@
 
 ​	经过前期测试，该网页端必须通过手机端才能进入，所以电脑用fiddle抓包时则必须通过手机实现，然后通过电脑模拟头文件使用电脑访问主页，再通过对cookie和post数据的解析，完成网页自动签到的程序。
 
-![](D:\Git-projects\sign_zjgs_v3\Sign_zjgsu\design.jpg)
+![](design.jpg)
 
 **程序主体编写** ：
 
